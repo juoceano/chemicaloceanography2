@@ -81,8 +81,8 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
-| 01   |05 março|Apresentação da Disciplina            |Texto 1 ||
-| 01   |06 março|Apresentação da Disciplina            |Texto 1 ||
+| 01   |05 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/chemicaloceanography2/raw/master/README.pdf) ||
+| 01   |06 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/chemicaloceanography2/raw/master/README.pdf) ||
 | 02   |12 março|Revisão de Conceitos                  |Texto 2 ||
 | 02   |13 março|Revisão de Conceitos                  |Texto 2 ||
 | 03   |19 março|Exercícios 1                          |        ||
