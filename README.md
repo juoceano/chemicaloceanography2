@@ -11,7 +11,7 @@ Professora: Juliana Leonel
 
 E-mail: jleonel@ufba.br
 
-Dia/Horário das aulas: Quintas (Turma B) e Sextas-feiras (Turma B) 7:00 - 10:40 Sala 03 (PAF VI)
+Dia/Horário das aulas:7:00 - 10:40 -  Quintas-feiras Sala 07/PAF VI (Turma 2) e Sextas-feiras Sala 03/PAF VI (Turma B)
 
 Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 
@@ -83,8 +83,8 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
 | 01   |05 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/chemicaloceanography2/raw/master/README.pdf) ||
 | 01   |06 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/chemicaloceanography2/raw/master/README.pdf) ||
-| 02   |12 março|Revisão de Conceitos                  |Texto 2 ||
-| 02   |13 março|Revisão de Conceitos                  |Texto 2 ||
+| 02   |12 março|Revisão de Conceitos                  |[Texto 2](https://github.com/juoceano/chemicaloceanography2/raw/master/chapters/Texto2.pdf) ||
+| 02   |13 março|Revisão de Conceitos                  |[Texto 2](https://github.com/juoceano/chemicaloceanography2/raw/master/chapters/Texto2.pdf) ||
 | 03   |19 março|Exercícios 1                          |        ||
 | 03   |20 março|Exercícios 1                          |        ||
 | 04   |26 março|Preparação de Amostras                |Texto 3 ||
