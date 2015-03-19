@@ -85,8 +85,8 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 01   |06 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/chemicaloceanography2/raw/master/README.pdf) ||
 | 02   |12 março|[Revisão de Conceitos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana02(CC).pdf)                  |[Texto 2](https://github.com/juoceano/chemicaloceanography2/raw/master/chapters/Texto2.pdf) ||
 | 02   |13 março|[Revisão de Conceitos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana02(CC).pdf)                   |[Texto 2](https://github.com/juoceano/chemicaloceanography2/raw/master/chapters/Texto2.pdf) ||
-| 03   |19 março|Revisão Conceito (Cont.) / Exercícios 1|        ||
-| 03   |20 março|Revisão Conceito (Cont.) / Exercícios 1|        ||
+| 03   |19 março|[Revisão Conceito (Cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana03(CC).pdf) / Exercícios 1|        ||
+| 03   |20 março|[Revisão Conceito (Cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana03(CC).pdf) / Exercícios 1|        ||
 | 04   |26 março|Preparação de Amostras                |Texto 3 ||
 | 04   |27 março|Preparação de Amostras                |Texto 3 ||
 | 05   |02 abril|Feriado                               |        ||
