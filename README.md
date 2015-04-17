@@ -87,20 +87,20 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 02   |13 março|[Revisão de Conceitos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana02(CC).pdf)                   |[Texto 2](https://github.com/juoceano/chemicaloceanography2/raw/master/chapters/Texto2.pdf) ||
 | 03   |19 março|[Revisão Conceito (Cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana03(CC).pdf) / Exercícios 1|        ||
 | 03   |20 março|[Revisão Conceito (Cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana03(CC).pdf) / Exercícios 1|        ||
-| 04   |26 março|Preparação de Amostras                |Texto 3 ||
-| 04   |27 março|Preparação de Amostras                |Texto 3 ||
+| 04   |26 março|[Preparação de Amostras](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana04(CC).pdf)                | |Exercício 1|
+| 04   |27 março|[Preparação de Amostras](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana04(CC).pdf)                 | |Exercício 1|
 | 05   |02 abril|Feriado                               |        ||
 | 05   |03 abril|Feriado                               |        ||
-| 06   |09 abril|Preparação de Amostras (cont.)        |        ||
-| 06   |10 abril|Preparação de Amostras (cont.)        |        ||
-| 07   |16 abril|Preparação de Amostras - aplicações em estudos oceanográficos|Texto 4||
-| 07   |17 abril|Preparação de Amostras - aplicações em estudos oceanográficos|Texto 4||
-| 08   |23 abril|Figuras de mérito                     |Texto 5 ||
-| 08   |24 abril|Figuras de mérito                     |Texto 5 ||
+| 06   |09 abril|[Preparação de Amostras (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana05(CC).pdf)       |        |Exercício 2|
+| 06   |10 abril|[Preparação de Amostras (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana05(CC).pdf)         |        |Exercício 2|
+| 07   |16 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
+| 07   |17 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
+| 08   |23 abril|Figuras de mérito                     | |Exercício 3|
+| 08   |24 abril|Figuras de mérito                     | |Exercício 3|
 | 09   |30 abril|Exercícios 2 (para casa)              |        ||
 | 09   |01 maio |FERIADO                               |        ||
-| 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |Exercícios 2|
-| 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |Exercícios 2|
+| 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |Exercícios 4|
+| 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |Exercícios 4|
 | 11   |14 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
 | 11   |15 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
 | 12   |21 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)|||
