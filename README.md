@@ -95,8 +95,8 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 06   |10 abril|[Preparação de Amostras (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana05(CC).pdf)         |        |Exercício 2|
 | 07   |16 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
 | 07   |17 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
-| 08   |23 abril|Figuras de mérito                     | |Exercício 3|
-| 08   |24 abril|Figuras de mérito                     | |Exercício 3|
+| 08   |23 abril|Figuras de mérito                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
+| 08   |24 abril|Figuras de mérito                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
 | 09   |30 abril|Exercícios 2 (para casa)              |        ||
 | 09   |01 maio |FERIADO                               |        ||
 | 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |Exercícios 4|
