@@ -1,0 +1,84 @@
+\RequirePackage{fix-cm}  % Fix Font shape `OT1/cmr/m/n' size substitution.
+%-----------------------------------------------------------------------------%
+%	Packages & Other Configurations
+%-----------------------------------------------------------------------------%
+\documentclass[a4paper,10pt]{article}
+\usepackage[top=0.5in, bottom=0.5in, left=0.9in, right=0.3in]{geometry}
+
+\usepackage[utf8]{inputenc} %add acents
+\usepackage{setspace} % command \doublespacing etc...
+\usepackage{lineno} % number lines
+\usepackage{epsf,epsfig} % includegraphics [pdf, png etc]
+\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft%
+\usepackage{textcomp} %símbolos de texto
+\usepackage{natbib} % bibtex - adicionar referencia
+% \usepackage{url} % for bibtex - configuracoes de urls
+\usepackage{tabularx} % for tables
+\usepackage[hidelinks]{hyperref}  % Add URL links.
+% \usepackage[bookmarks=false,colorlinks=true,urlcolor={green},linkcolor={green},pdfstartview={XYZ null null 1.22}]{hyperref} %all references
+\usepackage{multicol}
+
+
+%-----------------------------------------------------------------------------%
+%	Adicionar a Watermark
+%-----------------------------------------------------------------------------%
+\usepackage{draftwatermark}
+\SetWatermarkAngle{45}
+\SetWatermarkLightness{0.9}
+\SetWatermarkFontSize{5cm}
+\SetWatermarkScale{0.5}
+\SetWatermarkText{Exercício 4}
+
+%-----------------------------------------------------------------------------%
+%	Informações sobre o PDF
+%-----------------------------------------------------------------------------%
+
+\pdfinfo{%
+  /Title    (QUI155 - Exercício 4)
+  /Author   (Ju Leonel)
+  /Creator  (Ju Leonel)
+  /Producer (Ju Leonel)
+  /Subject  (Questionário Inicial)
+  /Keywords (Exercício 4, oceanografia química)}
+
+%-----------------------------------------------------------------------------%
+%	Documento
+%-----------------------------------------------------------------------------%
+\title{QUI155 Oceanografia Química II - Exercício 4}
+\author{\vspace{-10ex}}
+\date{\vspace{-10ex}}
+
+\begin{document}
+
+  \maketitle
+  %\doublespacing
+  \onehalfspace
+
+  \begin{itemize}
+  
+    \item[1.] Hipoteticamente, qual seria a melhor maneira de processar uma amostra antes da análise? Na prática, isso é possível? Justifique sua resposta.
+    
+    \item[2.] Por que o processamento da amostra é necessário?
+    
+    \item[3.] Nas etapas de processamento das amostras, explique cada uma das etapas abaixo e destaque a sua importância:
+      \item[(a)] Moagem;
+      \item[(b)] Filtração;
+      \item[(c)] Secagem;
+    
+    \item[4.] A preservação das amostras desde a coleta até o início do processamento é uma etapa muito importante para evitar perda dos analitos de interesse. Cite e explique 3 formas de preservar a amostra.
+    
+    \item[5.] O processamento de amostras possui, entre outras, etapas de digestão/extração e purificação. Explique, em linhas gerais, o que são essas etapas e por que elas devem ser realizadas.
+    
+    \item[6.] Quais as limitações quando a matriz de trabalho é água do mar? 
+    
+    \item[7.] Quando amostras estão sendo processadas, tanto para compostos orgânicos como inorgânicos, algumas cuidados devem ser tomadas para prevenir a  contaminação. Quais são esses cuidados?
+  
+  \end{itemize}
+
+
+%\clearpage %termina o texto e tudo que estiver flutuante se encaixa ali
+%\newpage % começa uma nova página
+%\bibliographystyle{chicago} % estilo que vai sair a bibliografia (posso usar outros)
+%\bibliography{references_ju} %entre chaves vai o nome do arquivo de referencias
+
+\end{document}
