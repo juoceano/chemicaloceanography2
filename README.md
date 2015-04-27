@@ -99,8 +99,8 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 08   |24 abril|Figuras de mérito                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
 | 09   |30 abril|Exercícios 2 (para casa)              |        ||
 | 09   |01 maio |FERIADO                               |        ||
-| 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |Exercícios 4|
-| 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |Exercícios 4|
+| 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
+| 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
 | 11   |14 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
 | 11   |15 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
 | 12   |21 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)|||
