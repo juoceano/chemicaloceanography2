@@ -101,16 +101,16 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 09   |01 maio |FERIADO                               |        ||
 | 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
 | 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
-| 11   |14 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
-| 11   |15 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)|||
-| 12   |21 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)|||
-| 12   |22 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)|||
-| 13   |28 maio |Cromatografia                         |        ||
-| 13   |29 maio |Cromatografia                         |        ||
+| 11   |14 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
+| 11   |15 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
+| 12   |21 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
+| 12   |22 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
+| 13   |28 maio |Cromatografia                         ||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
+| 13   |29 maio |Cromatografia                         ||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
 | 14   |04 junho|FERIADO                               |        ||
 | 14   |05 junho|Exercícios 3 (para casa)              |        ||
-| 15   |11 junho|Revisão: vantagens x desvantagens     |        |Exercícios 3|
-| 15   |12 junho|Revisão: vantagens x desvantagens     |        |Exercícios 3|
+| 15   |11 junho|Revisão: vantagens x desvantagens     |        |Exercícios 5|
+| 15   |12 junho|Revisão: vantagens x desvantagens     |        |Exercícios 5|
 | 16   |18 junho|Aplicação dos métodos em oceanografia |        ||
 | 16   |19 junho|Aplicação dos métodos em oceanografia |        ||
 | 17   |25 junho|Aplicação dos métodos em oceanografia (cont.)| ||
