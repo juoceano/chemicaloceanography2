@@ -95,12 +95,12 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 06   |10 abril|[Preparação de Amostras (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana05(CC).pdf)         |        |Exercício 2|
 | 07   |16 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
 | 07   |17 abril|[Preparação de Amostras - aplicações em estudos oceanográficos](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana06(CC).pdf)|||
-| 08   |23 abril|Figuras de mérito                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
-| 08   |24 abril|Figuras de mérito                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
+| 08   |23 abril|[Introdução aos Métodos Instrumentais](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana08(CC).pdf)                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
+| 08   |24 abril|[Introdução aos Métodos Instrumentais](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana08(CC).pdf)                     | |[Exercício 3](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio3.pdf)|
 | 09   |30 abril|Exercícios 2 (para casa)              |        ||
 | 09   |01 maio |FERIADO                               |        ||
-| 10   |07 maio |Introdução aos Métodos Instrumentais  |Texto 6 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
-| 10   |08 maio |Introdução aos Métodos Instrumentais  |Texto 5 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
+| 10   |07 maio |[Introdução aos Métodos Instrumentais (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana10(CC).pdf)  |Texto 6 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
+| 10   |08 maio |[Introdução aos Métodos Instrumentais (cont.)](https://github.com/juoceano/chemicaloceanography2/raw/master/classes/OceanoQuimica_Semana10(CC).pdf)  |Texto 5 |[Exercícios 4](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Exercicio4.pdf)|
 | 11   |14 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
 | 11   |15 maio |Espectrometria de Absorção Atômica (FAAS e GFAAS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
 | 12   |21 maio |Espectrometria de Emissão Atômica (ICP-OES e ICP-MS)||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
@@ -108,9 +108,9 @@ Skoog, D. A.; Holler, F. J. & Nieman, T.A. (2002) Princípios de Análise Instru
 | 13   |28 maio |Cromatografia                         ||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
 | 13   |29 maio |Cromatografia                         ||[Avaliação](https://github.com/juoceano/chemicaloceanography2/raw/master/evaluations/Seminarios.pdf)|
 | 14   |04 junho|FERIADO                               |        ||
-| 14   |05 junho|Exercícios 3 (para casa)              |        ||
-| 15   |11 junho|Revisão: vantagens x desvantagens     |        |Exercícios 5|
-| 15   |12 junho|Revisão: vantagens x desvantagens     |        |Exercícios 5|
+| 14   |05 junho|-              |        ||
+| 15   |11 junho|Semana de Oceanografia     |        ||
+| 15   |12 junho|Semana de Oceanografia     |        ||
 | 16   |18 junho|Aplicação dos métodos em oceanografia |        ||
 | 16   |19 junho|Aplicação dos métodos em oceanografia |        ||
 | 17   |25 junho|Aplicação dos métodos em oceanografia (cont.)| ||
